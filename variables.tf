@@ -1,5 +1,5 @@
 variable "domainName" {
-  default = "dev.sowjitest.com"
+  default = "sowjitest.com"
   type = string
 }
 variable "bucketName" {
